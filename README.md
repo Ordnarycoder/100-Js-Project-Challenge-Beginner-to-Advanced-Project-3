@@ -1,0 +1,1 @@
+Third js project. Prime number checker.
